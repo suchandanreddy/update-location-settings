@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+log/location_logs.txt
+config_details.yaml
+.vscode/
+system-feature-json.j2
 
 # Distribution / packaging
 .Python
