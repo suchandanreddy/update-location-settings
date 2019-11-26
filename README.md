@@ -75,7 +75,8 @@ After setting the env variables, run the python script `update-location-settings
 ## Sample output
 
 ```
-python3 update-location-settings.py 
+$python3 update-location-settings.py 
+
 Loading configuration details from YAML
 
 Device: 1.1.1.5
